@@ -1,4 +1,4 @@
-# BLENDED_LEARNING
+![Screenshot 2025-05-15 001626](https://github.com/user-attachments/assets/93d47aca-567a-452f-9801-1ae76f4330b1)# BLENDED_LEARNING
 # Implementation of Logistic Regression Model for Classifying Food Choices for Diabetic Patients
 
 ## AIM:
@@ -96,6 +96,7 @@ plt.show()
 ### Model efficiency:
 ![Screenshot 2025-05-15 001619](https://github.com/user-attachments/assets/061ef8ef-40a3-49c6-a9a6-1ee8d969be29)
 ### Confusion MATRIX:
-![Uploading Screenshot 2025-05-15 001626.png…]()
+![Screenshot 2025-05-15 001626](https://github.com/user-attachments/assets/0b42cb53-7eb6-4806-9e54-c19042914868)
+
 ## Result:
 Thus, the logistic regression model was successfully implemented to classify food items for diabetic patients based on nutritional information, and the model's performance was evaluated using various performance metrics such as accuracy, precision, and recall.
