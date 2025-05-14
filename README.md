@@ -1,4 +1,3 @@
-![Screenshot 2025-05-15 001626](https://github.com/user-attachments/assets/93d47aca-567a-452f-9801-1ae76f4330b1)# BLENDED_LEARNING
 # Implementation of Logistic Regression Model for Classifying Food Choices for Diabetic Patients
 
 ## AIM:
